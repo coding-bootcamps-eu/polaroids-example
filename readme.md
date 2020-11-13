@@ -2,6 +2,8 @@
 
 Minimale HTML and CSS example to create images that look like Polaroids.
 
+Use on [CodePen](https://codesandbox.io/s/github/coding-bootcamps-eu/polaroids-example)
+
 ## Ressources
 
 We used the following ressources to create this example.
